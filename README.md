@@ -5,7 +5,7 @@ This framework allows you to publish custom events in one Sitecore instance, and
 
 I will soon make the framework available as a Sitecore module in the Marketplace.
 
-More details about the framework, including usage instructions, is available on my [blog post](https://thesitecorezone.wordpress.com/2015/10/12/custom-events-in-sitecore/).
+More details about the framework, including usage instructions, is available on my [blog post](https://thesitecorezone.wordpress.com/2015/09/30/sitecore-custom-eventing-framework/).
 
 **Usage Instructions Summary**
 

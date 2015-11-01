@@ -3,9 +3,7 @@ Sitecore-Eventing-Framework
 
 This framework allows you to publish custom events in one Sitecore instance, and subscribe to those events in other Sitecore instances in your cluster / farm. It also allows you to pass any serializable data between Sitecore instances through these custom events. The framework internally leverages the Sitecore Event Queue, and provides a developer-friendly abstraction over it.
 
-I will soon make the framework available as a Sitecore module in the Marketplace.
-
-More details about the framework, including usage instructions, is available on my [blog post](https://thesitecorezone.wordpress.com/2015/09/30/sitecore-custom-eventing-framework/).
+More details about the framework, including usage instructions, is available on my [blog post](https://thesitecorezone.wordpress.com/2015/09/30/sitecore-custom-eventing-framework/). It is also available as a module in the [Sitecore Marketplace](https://marketplace.sitecore.net/Modules/S/Sitecore_Eventing_Framework).
 
 **Usage Instructions Summary**
 
